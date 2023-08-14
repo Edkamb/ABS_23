@@ -1,7 +1,7 @@
 # ABS Workshop 2023
 
 Welcome to the website of the Fifth International ABS Workshop, which will be held 4th 6th October in Lyon, France, hosted by ENS de Lyon.
-Information about prior iterations can be found [https://abs-models.org/publications/](here). 
+Information about prior iterations can be found [here](https://abs-models.org/publications/). 
 
 ## Venue
 The workshop will be held at a side-building of the monod site ([see map](https://www.ens-lyon.fr/indexation/lieusalle/site-monod-salle-condorcet-1-place-de-lecole))

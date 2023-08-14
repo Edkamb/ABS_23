@@ -18,3 +18,7 @@ The workshop will provide free snacks and coffee for the breaks, but lunches hav
 
 We will in short time update this webpage with the programme and details about the State-of-the-Art of Active Object issue that will be presented at the workshop.
 
+## Organizers
+If there are any inquiries or questions, feel free to contact the organizers:
+ * Local Organization: [Ludovic Henrio](ludovic.henrio@ens-lyon.fr)
+ * General Organization: [Eduard Kamburjan](eduard@ifi.uio.no)

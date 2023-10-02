@@ -16,7 +16,7 @@ The workshop will provide free snacks and coffee for the breaks, but lunches hav
 
 ## Programme and State-of-the-Art of Active Objects
 
-We will in short time update the programme with links to preprints of the papers in the State-of-the-Art of Active Object issue.
+You can find the collection of preprints for the State-of-the-Art of Active Object volume [here](merged.pdf).
 
 ### Wednesday, 04.10.23
 

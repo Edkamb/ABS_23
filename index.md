@@ -17,6 +17,7 @@ The workshop will provide free snacks and coffee for the breaks, but lunches hav
 ## Programme and State-of-the-Art of Active Objects
 
 You can find the collection of preprints for the State-of-the-Art of Active Object volume [here](merged.pdf).
+The proceedings are now published by Springer as LNCS 14360 [here](https://link.springer.com/book/10.1007/978-3-031-51060-1).
 
 ### Wednesday, 04.10.23
 

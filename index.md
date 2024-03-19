@@ -1,6 +1,6 @@
 # ABS Workshop 2023
 
-Welcome to the website of the Fifth International ABS Workshop, which will be held 4th -- 6th October in Lyon, France, hosted by ENS de Lyon.
+Welcome to the website of the Fifth International ABS Workshop/Fifth Workshop on Asynchronous Programming Models, which will be held 4th -- 6th October in Lyon, France, hosted by ENS de Lyon.
 Information about prior iterations can be found [here](https://abs-models.org/publications/). 
 
 ## Venue
